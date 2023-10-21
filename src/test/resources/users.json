@@ -1,0 +1,29 @@
+[
+  {
+    "password": "1234",
+    "role": "Agent",
+    "name": "Ms. Billie Abbott",
+    "nid": "1234567890",
+    "phone_number": "01750513264",
+    "id": 35256,
+    "email": "lori.boehm@gmail.com"
+  },
+  {
+    "password": "1234",
+    "role": "Customer",
+    "name": "Donnell Willms",
+    "nid": "1234567890",
+    "phone_number": "01750131292",
+    "id": 35257,
+    "email": "stewart.williamson@gmail.com"
+  },
+  {
+    "password": "1234",
+    "role": "Customer",
+    "name": "Tameka Hirthe",
+    "nid": "1234567890",
+    "phone_number": "01750121103",
+    "id": 35258,
+    "email": "demetria.shields@yahoo.com"
+  }
+]
